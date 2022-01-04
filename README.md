@@ -52,18 +52,18 @@ Initially contending to build a new and upcoming neobank. During this time, they
 Funded approx. $20M through venture capital (series A funding).
 
 Series A funding is generally for a business that is already developing a track record via an established base, revenue figures and other performance indicators. They would then utilise this series A funding which is an investment within a privately held, start-up company that demonstrated track records as mentioned briefly above(xiv). 
-o	The difference of series A funding to seed/angel funding is the amount of money that is invested and what partnership/participation the investor will obtain from the investment.
-o	Seed/Angel could generate hundreds of thousands or dollars. Series A funding generates millions.
+*The difference of series A funding to seed/angel funding is the amount of money that is invested and what partnership/participation the investor will obtain from the investment.
+*Seed/Angel could generate hundreds of thousands or dollars. Series A funding generates millions.
 
 Investors include (ii):
-o	GreyCroft
-o	AirTree
-o	Reinventure
-o	Apex Capital Partners
-o	Mantis
-o	Tidal
-o	20VC
-o	LJCB Investment Group
+*	GreyCroft
+*	AirTree
+*	Reinventure
+*	Apex Capital Partners
+*	Mantis
+*	Tidal
+*	20VC
+*	LJCB Investment Group
 
 > ## Business Activities:
  
@@ -90,7 +90,8 @@ The market size for their intended customers within Australian market for financ
 -	Over past 5 years has declined by 2.2% (average) per year (2017 – 2022).
 -	Biggest growth within this market is investor confidence, assets values, household wealth and investment income.
 
- ![image_add](image2.png)
+ ![image](https://user-images.githubusercontent.com/91233750/148059757-1d9674de-809b-4be6-8835-9abd973f9473.png)
+
 
 The market size of possible customers within global market for financial services (xvii):
 
@@ -118,7 +119,7 @@ Frankieone simple integration of a single API and showcase KYC, AML and fraud de
 
 Example below (xviii) of Frankieone dashboard –
 
-![image_add](image3.png)
+![image](https://user-images.githubusercontent.com/91233750/148059818-d39876f4-588e-4f97-9c80-2aba4458ea5c.png)
  
 **Which technologies are they currently using, and how are they implementing them?**
 
@@ -134,11 +135,12 @@ Aims to keep the API easy and flexible by utilising only simple HTTPS verbs such
 
 This allows the customer to be flexible with their own flows and accommodate the API to best suit them.
  
- ![image_add](image4.png)
+ ![image](https://user-images.githubusercontent.com/91233750/148059960-d1a2989d-d8fa-4174-88d3-e9b0ae6c0c5e.png)
 
 User friendly technology with their Smart UI in allowing full customisation of their service. This is embedded as a reusable web component or “widget” (xviii). As the customer provides the necessary compliance information needed, either via a previously used customer ID and API key or authenticated to generate a secure temporary key it connects to Frankieone to begin the engine.
 
-![image_add](image6.png)
+![image](https://user-images.githubusercontent.com/91233750/148060159-20e04a45-3c43-4904-9bb3-5d7bf3c3c1a9.png)
+
  
 Frankieone is also/utilises:
 
@@ -211,7 +213,7 @@ The RegTech industry has growth exponentially since 2014 (xx) and estimated to h
 
 Currently Australia is the third largest RegTech hub in the world (xxii), with US and the UK coming first and second respectively (as shown below). Even with the COVID-19 pandemic it is still expected to grow within this domain due to growing regulatory pressure.
 
- ![image_add](image5.png)
+ ![image](https://user-images.githubusercontent.com/91233750/148059922-aad9f2f5-30b0-4d74-9061-b2776b0837eb.png)
 
 **What are the other major companies in this domain?**
 
