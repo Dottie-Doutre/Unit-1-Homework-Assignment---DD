@@ -1,6 +1,7 @@
 # **Frankieone** #
 
-![image_add](image1.png)
+![image](https://user-images.githubusercontent.com/91233750/148059547-c9430f16-1a42-4a0b-a305-afb02a24b6bb.png)
+
 ### *Submission by Dorothy Doutre for Unit 1 Homework Assignment: FinTech Case Study (Frankieone)* ###
  
  ___
